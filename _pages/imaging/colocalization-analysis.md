@@ -109,6 +109,7 @@ There are several plugins available for performing colocalization analysis. In a
 - Object-based analyses:
   - [JaCoP](/plugins/jacop)
   - [Distance Analysis](/plugins/distance-analysis)
+  - [Toolbox for object-based colocalization analysis](https://forum.image.sc/t/announcement-of-new-imagej-plugin-a-versatile-toolbox-for-semi-automatic-cell-by-cell-object-based-colocalization-analysis/47935)
 - SMLM analyses (no ImageJ implementations):
   - [Coloc-Tesseler](https://github.com/flevet/Coloc-Tesseler) (standalone, not an ImageJ plugin)
   - [ClusDoC]( https://github.com/PRNicovich/ClusDoC) (MatLab plugin)
